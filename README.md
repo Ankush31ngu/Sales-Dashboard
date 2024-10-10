@@ -1,2 +1,2 @@
-# Sales-Dashboard
+Sales-Dashboard
 Power BI Dashboard
